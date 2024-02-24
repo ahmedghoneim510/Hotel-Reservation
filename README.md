@@ -10,7 +10,9 @@
 <li>Pay with Paypal</li>
 <li> Dashboard for Admins</li>
 <li>CRUD operation for each admins,hotels,rooms,Bookings</li>
+<li>Authentication for users and admins</li>
 </ul>
+
 <h2>Installation</h2>
 <p>Clone the repository</p>
 <pre><code>git clone
